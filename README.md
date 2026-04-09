@@ -36,15 +36,6 @@ Busco constantemente desenvolver habilidades que me permitam criar **soluções 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasCalixtoLemos&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCalixtoLemos&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > _"A melhor maneira de prever o futuro é inventá-lo."
